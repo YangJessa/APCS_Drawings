@@ -1,2 +1,2 @@
 # APCS_Drawings
-AP CS Drawings project
+AP CS lab on object-oriented programming; the first lab we did completely from scratch!
